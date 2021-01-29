@@ -1,0 +1,10 @@
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\bin\Debug\OrderCheck.exe.config
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\bin\Debug\OrderCheck.exe
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\bin\Debug\OrderCheck.pdb
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.csprojAssemblyReference.cache
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.OrderCheck.resources
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.Properties.Resources.resources
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.csproj.GenerateResource.cache
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.csproj.CoreCompileInputs.cache
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.exe
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderCheck\obj\Debug\OrderCheck.pdb

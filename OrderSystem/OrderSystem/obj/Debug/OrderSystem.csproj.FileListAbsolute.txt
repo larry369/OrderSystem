@@ -1,0 +1,23 @@
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe.config
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csprojAssemblyReference.cache
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Form1.resources
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Properties.Resources.resources
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.GenerateResource.cache
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.CoreCompileInputs.cache
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.exe
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.pdb
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.newProduct.resources
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe.config
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csprojAssemblyReference.cache
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Form1.resources
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.newProduct.resources
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.Properties.Resources.resources
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.GenerateResource.cache
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.csproj.CoreCompileInputs.cache
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.exe
+D:\Larry\04.OrderSystem\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.pdb
+D:\Larrys file\progaming\WindowsForm\OrderSystem\OrderSystem\OrderSystem\obj\Debug\OrderSystem.OrderCheck.resources
